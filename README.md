@@ -20,7 +20,7 @@
    <img align="center" alt="JP - Net" height="45" width="45" src="https://user-images.githubusercontent.com/105940671/181071155-7458f906-3665-4d45-83b4-17f1a09e1a90.png">
    <img align="center" alt="JP - ASP" height="45" width="45" src="https://user-images.githubusercontent.com/105940671/181071938-84b368cc-cdfe-4de8-90eb-5a9a1656ba45.png">
     <img align="center" alt="JP - MVC" height="45" width="65" src="https://user-images.githubusercontent.com/105940671/181072167-baaaa0b7-b1b7-4fe0-bd94-1628efad6728.png">
-     <img align="center" alt="JP - Arduino" height="45" width="65" src="https://user-images.githubusercontent.com/105940671/181073245-799e8868-db35-4fc8-88a9-842ba0f68e49.png">
+     
 </div>
 <br><br>  
 ## ⚙️ GitHub Analytics
