@@ -1,4 +1,4 @@
-<img align="right" height="510em" src="https://user-images.githubusercontent.com/105940671/181073000-d380c61d-13da-44ab-95f7-7be367a24b15.jpeg"/>
+<img align="right" height="250em" src="https://user-images.githubusercontent.com/105940671/183121681-4faf57fd-41c0-4b5e-99f6-5b8cca780e0d.png"/>
 <h1 align="left">Olá, sou Gustavo Cunha, Estudante De Desenvolvimento de sistemas!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gustavo13Cs&color=blue" alt="Visualizações de perfis" /> </p>
 
@@ -10,13 +10,13 @@
 
 <br><br>
 
-##  🛠 Pilhas de Tecnologia 
+##  🛠 Pilhas de Tecnologia em Aprendizado
 
 <div style="display: inline_block"><br>
   
- <img align="center" alt="JP - C#" height="40" width="45" src="https://user-images.githubusercontent.com/105940671/180506390-a342e9b5-2cb7-4bfe-81ce-c98133a0fef1.png">
-   <img align="center" alt="JP - HTML5" height="50" width="50" src="https://user-images.githubusercontent.com/105940671/180506597-c8fd91f9-e2a0-45a0-a035-7734dc124222.png">
-   <img align="center" alt="JP - SQLserve" height="45" width="55" src="https://user-images.githubusercontent.com/105940671/181074331-06ca00ef-193b-4486-b8ef-fdefc2ebd160.jpg">
+ <img align="center" alt="JP - C#" height="40" width="45" src="https://user-images.githubusercontent.com/105940671/183122028-67624b5c-edef-4feb-9939-de1f43cbc404.svg">
+   <img align="center" alt="JP - HTML5" height="50" width="50" src="https://user-images.githubusercontent.com/105940671/183122040-bf863f8c-5ff9-4152-bcba-98a4a8a707f8.svg">
+   <img align="center" alt="JP - SQLserve" height="45" width="55" src="https://user-images.githubusercontent.com/105940671/183122044-31d94f94-5c5b-4e31-a7d8-3d71175026e9.svg">
    <img align="center" alt="JP - Net" height="45" width="45" src="https://user-images.githubusercontent.com/105940671/181071155-7458f906-3665-4d45-83b4-17f1a09e1a90.png">
    <img align="center" alt="JP - ASP" height="45" width="45" src="https://user-images.githubusercontent.com/105940671/181071938-84b368cc-cdfe-4de8-90eb-5a9a1656ba45.png">
     <img align="center" alt="JP - MVC" height="45" width="65" src="https://user-images.githubusercontent.com/105940671/181072167-baaaa0b7-b1b7-4fe0-bd94-1628efad6728.png">
