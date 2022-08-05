@@ -1,4 +1,4 @@
-<img align="right" height="250em" src="https://user-images.githubusercontent.com/105940671/183121681-4faf57fd-41c0-4b5e-99f6-5b8cca780e0d.png"/>
+<img align="right" height="210em" src="https://user-images.githubusercontent.com/105940671/183121681-4faf57fd-41c0-4b5e-99f6-5b8cca780e0d.png"/>
 <h1 align="left">Olá, sou Gustavo Cunha, Estudante De Desenvolvimento de sistemas!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gustavo13Cs&color=blue" alt="Visualizações de perfis" /> </p>
 
