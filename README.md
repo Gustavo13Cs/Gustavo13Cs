@@ -10,7 +10,7 @@
 
 - ⚡ Curiosidade **Cursei Tecnico de Desenvolvimento de Sistemas**
 
-- 👨‍💻 Portifolio em andamento . . . 
+- 👨‍💻 https://gustavocsportfolio.netlify.app/ 
 
 <br><br>
 ## 🛠  Tech Stack
