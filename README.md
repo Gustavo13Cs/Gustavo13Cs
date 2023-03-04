@@ -32,6 +32,7 @@
 ## ⚙️  GitHub Analytics
 <p align="esquerda">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=github_dark" alt="Gustavo13Cs's stats"/>
+<img width="530em" src="https://streak-stats.demolab.com/?user=Gustavo13Cs&theme=dracula" />
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&theme=github_dark"/>
 </p>
 
