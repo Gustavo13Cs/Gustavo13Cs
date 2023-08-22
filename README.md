@@ -8,7 +8,7 @@
 
 - 🌱 Atualmente estou aprendendo ReactJS
 
-- ⚡ Curiosidade **Cursei Tecnico de Desenvolvimento de Sistemas**
+- ⚡ Curiosidade **Estou Cursando Analise e Desenvolvimento de Sistemas**
 
 - 👨‍💻 https://gustavocsportfolio.netlify.app/ 
 
