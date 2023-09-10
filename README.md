@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou a procura de novoas oportunidades na área
 
-- 🌱 Atualmente estou aprendendo ReactJS
+- 🌱 Atualmente estou aprendendo Angular + Java
 
 - ⚡ Curiosidade **Estou Cursando Analise e Desenvolvimento de Sistemas**
 
