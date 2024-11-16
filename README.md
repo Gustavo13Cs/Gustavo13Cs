@@ -6,11 +6,13 @@
 
 - 🔭 Atualmente estou a procura de novoas oportunidades na área
 
-- 🌱 Atualmente estou aprendendo Angular + Java
+- 🌱 Atualmente estou aprendendo Java
 
 - ⚡ Curiosidade **Estou Cursando Analise e Desenvolvimento de Sistemas**
 
-- 👨‍💻 https://gustavocsportfolio.netlify.app/ 
+- 👨‍💻 https://gustavocsportfolio.netlify.app/
+  
+- 💬 https://medium.com/@gustavocunha0401
 
 <br><br>
 ## 🛠  Tech Stack
@@ -24,8 +26,7 @@
 <img align="center" alt=".NET" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original.svg">
 <img align="center" alt="Core" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg">
 <img align="center" alt="SqlServer" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-<img align="center"  alt="Code" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
-<img align="center"  alt="Studio" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"/>
+<img align="center"  alt="Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
 </p>
 
 <br><br>
