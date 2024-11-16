@@ -30,11 +30,12 @@
 
 <br><br>
 ## ⚙️  GitHub Analytics
-<p align="esquerda">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=dracula" alt="Gustavo13Cs's stats"/>
-<img width="530em" src="https://streak-stats.demolab.com/?user=Gustavo13Cs&theme=dracula" />
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&theme=dracula"/>
-</p>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavo13Cs&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavo13Cs&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gustavo13Cs&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavo13Cs&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo13Cs&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
 
 <br><br>
 
