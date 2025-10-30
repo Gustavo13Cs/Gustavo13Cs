@@ -69,7 +69,7 @@ Aqui estão alguns projetos em que venho trabalhando. (Basta preencher com seus 
       <p align="center">
         <b>Tecnologias:</b> HTML5, CSS3, JavaScript
         <br/><br/>
-        <a href="https://github.com/Gustavo13Cs/Card-pio-Virtual target="_blank">
+        <a href="https://github.com/Gustavo13Cs/Card-pio-Virtual" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -82,7 +82,7 @@ Aqui estão alguns projetos em que venho trabalhando. (Basta preencher com seus 
       <p align="center">
         <b>Tecnologias:</b> Java, JAVA SPRING BOOT, HTML5, CSS3, JavaScript
         <br/><br/>
-        <a href="https://github.com/Gustavo13Cs/SistemaRHJava target="_blank">
+        <a href="https://github.com/Gustavo13Cs/SistemaRHJava" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
         </a>
       </p>
