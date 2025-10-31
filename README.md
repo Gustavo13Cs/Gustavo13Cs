@@ -30,8 +30,7 @@ Minha stack está sempre evoluindo. Estas são as ferramentas que eu uso para co
 
 ### 🌟 Projetos em Destaque
 
-Aqui estão alguns projetos em que venho trabalhando. (Basta preencher com seus links!)
-
+Aqui estão alguns projetos em que venho trabalhando. 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
