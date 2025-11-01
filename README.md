@@ -40,7 +40,7 @@ Aqui estão alguns projetos em que venho trabalhando.
       <p align="center">
         <b>Tecnologias:</b> Node.js, NestJS, React, PostgreSQL
         <br/><br/>
-        <a href="LINK-DO-SEU-REPOSITORIO-AQUI" target="_blank">
+        <a href="https://github.com/Gustavo13Cs/BarbeariaWebs" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
         </a>
       </p>
