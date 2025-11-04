@@ -38,7 +38,7 @@ Aqui estão alguns projetos em que venho trabalhando.
       <br />
       <p>Uma aplicação completa para agendamento em barbearias, permitindo que clientes marquem horários e barbeiros gerenciem suas agendas. Foco em uma API robusta e uma interface de usuário limpa.</p>
       <p align="center">
-        <b>Tecnologias:</b> Node.js, NestJS, React, PostgreSQL
+        <b>Tecnologias:</b> Node.js, NestJS, React, MySql
         <br/><br/>
         <a href="https://github.com/Gustavo13Cs/BarbeariaWebs" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
