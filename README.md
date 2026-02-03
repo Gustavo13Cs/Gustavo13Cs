@@ -40,7 +40,7 @@ Aqui estão alguns projetos em que venho trabalhando.
       <p align="center">
         <b>Tecnologias:</b> Node.js, React, WebSockets, Docker, AES-256 ,Mysql, Docker
         <br/><br/>
-        <a href="https://github.com/Gustavo13Cs/BarbeariaWebs" target="_blank">
+        <a href="[https://github.com/Gustavo13Cs/BarbeariaWebs](https://github.com/Gustavo13Cs/Sistema-de-Gest-o-de-Ativos-e-Monitoramento-de-TI)" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
         </a>
       </p>
