@@ -34,11 +34,11 @@ Aqui estão alguns projetos em que venho trabalhando.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💈 Projeto Barbearia (Agendamento)</h3>
+      <h3 align="center">🛡️ Governança de TI & Monitoramento (RMM)</h3>
       <br />
-      <p>Uma aplicação completa para agendamento em barbearias, permitindo que clientes marquem horários e barbeiros gerenciem suas agendas. Foco em uma API robusta e uma interface de usuário limpa.</p>
+      <p>Ecossistema corporativo desenvolvido para a Rede Fácil, focado na gestão completa do ciclo de vida de ativos (ITAM) e segurança da informação. Inclui monitoramento de hardware em tempo real, Cofre Digital compatível com a LGPD e automação de infraestrutura.</p>
       <p align="center">
-        <b>Tecnologias:</b> Node.js, NestJS, React, MySql
+        <b>Tecnologias:</b> Node.js, React, WebSockets, Docker, AES-256 ,Mysql, Docker
         <br/><br/>
         <a href="https://github.com/Gustavo13Cs/BarbeariaWebs" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
