@@ -38,9 +38,9 @@ Aqui estão alguns projetos em que venho trabalhando.
       <br />
       <p>Ecossistema corporativo desenvolvido para a Rede Fácil, focado na gestão completa do ciclo de vida de ativos (ITAM) e segurança da informação. Inclui monitoramento de hardware em tempo real, Cofre Digital compatível com a LGPD e automação de infraestrutura.</p>
       <p align="center">
-        <b>Tecnologias:</b> Node.js, React, WebSockets, Docker, AES-256 ,Mysql, Docker
+        <b>Tecnologias:</b> Node.js, React, WebSockets, Docker, AES-256 ,Mysql
         <br/><br/>
-        <a href="[https://github.com/Gustavo13Cs/BarbeariaWebs](https://github.com/Gustavo13Cs/Sistema-de-Gest-o-de-Ativos-e-Monitoramento-de-TI)" target="_blank">
+        <a href="https://github.com/Gustavo13Cs/Sistema-de-Gest-o-de-Ativos-e-Monitoramento-de-TI" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -73,13 +73,13 @@ Aqui estão alguns projetos em que venho trabalhando.
         </a>
       </p>
     </td>
-     <td width="50%" valign="top">
-      <h3 align="center">🏢 Sistema de Rh em Java </h3>
+      <td width="50%" valign="top">
+      <h3 align="center">🏢 Sistema de RH em Java</h3>
       <br />
-      <p>Um cardápio digital simples e rápido, focado em performance e usabilidade mobile. Projeto ideal para praticar fundamentos de front-end e deploy rápido.</p>
+      <p>Sistema completo de gestão de Recursos Humanos, focado em organização de colaboradores e processos internos.</p>
       <br/>
       <p align="center">
-        <b>Tecnologias:</b> Java, JAVA SPRING BOOT, HTML5, CSS3, JavaScript
+        <b>Tecnologias:</b> Java, Spring Boot, MySQL
         <br/><br/>
         <a href="https://github.com/Gustavo13Cs/SistemaRHJava" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
@@ -91,12 +91,14 @@ Aqui estão alguns projetos em que venho trabalhando.
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📈 Minhas Métricas e Performance
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavo-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-dev&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo13Cs&theme=dracula&hide_border=true" />
+</div>
 
 ---
 
@@ -114,5 +116,5 @@ Acredito que corpo e mente precisam evoluir juntos. Quando não estou programand
 
 Estou sempre aberto a novas oportunidades, projetos desafiadores e conexões.
 
-* **LinkedIn:** `https://www.linkedin.com/in/gustavo-cunha-s/`
+* **LinkedIn:** [linkedin.com/in/gustavo-cunha-s/](https://www.linkedin.com/in/gustavo-cunha-s/)
 * **Email:** `gustavocunha0401@gmail.com`
