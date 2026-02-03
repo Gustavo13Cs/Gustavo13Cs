@@ -89,18 +89,16 @@ Aqui estão alguns projetos em que venho trabalhando.
   </tr>
 </table>
 
----
 
 ### 📈 Minhas Métricas e Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=1800" />
   <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo13Cs&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo13Cs&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 </div>
 
----
 
 ### 🏃 Fora do Teclado
 
