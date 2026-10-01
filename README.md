@@ -1,104 +1,94 @@
+<div align="center">
+
 # Gustavo Cunha Santos
 
-**Desenvolvedor Back-End / Full Stack | C# / .NET | Java (Spring Boot) | Node.js | React | Next.js**
+<a href="https://github.com/Gustavo13Cs">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Desenvolvedor+Back-End+e+Full+Stack;C%23+%2F+.NET+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Next.js;Sistemas+reais%2C+c%C3%B3digo+limpo+e+entrega+cont%C3%ADnua" alt="Gustavo Cunha Santos - Desenvolvedor Back-End e Full Stack" />
+</a>
 
-Construo soluções práticas, bem estruturadas e fáceis de manter. Foco em código limpo, documentação clara e entregas com impacto real.
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--cunha--s-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gustavo-cunha-s/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-gustavocunha--portfolio-24292F?style=for-the-badge)](https://gustavocunha-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-gustavocunha0401%40gmail.com-D14836?style=for-the-badge)](mailto:gustavocunha0401@gmail.com)
+
+</div>
 
 ---
 
 ## Sobre mim
 
-Desenvolvedor com foco em back-end e boa atuação em full stack, com experiência em projetos de gestão de TI, e-commerce e automação. Cursando **Análise e Desenvolvimento de Sistemas** na Anhanguera (2023–2026) e técnico em desenvolvimento de sistemas pelo SENAI (2021–2022).
+Desenvolvedor back-end e full stack, graduado em Análise e Desenvolvimento de Sistemas e certificado Scrum Master. Atuo na infraestrutura de TI da **Rede Fácil**, onde construí do zero um sistema de gestão de ativos e monitoramento em tempo real, com Cofre Digital criptografado e alinhado à LGPD.
 
-Atualmente trabalho como **Analista de Suporte de TI** na Rede Fácil, onde desenvolvi o Sistema de Gestão de Ativos e Monitoramento de TI, com monitoramento em tempo real de CPU, memória, disco e temperatura, alertas automáticos, controle remoto e Cofre Digital criptografado em conformidade com a LGPD.
-
-Também atuei como estagiário back-end em e-commerce com .NET Core, ASP.NET MVC, SQL Server e integração de pagamento, além de liderar tecnicamente um projeto de web scraping no SENAI. Possuo certificação Scrum Master e utilizo IA no fluxo de desenvolvimento para acelerar produtividade sem abrir mão da qualidade.
-
-Valorizo código limpo, documentação, trabalho em equipe, aprendizado contínuo e liderança técnica com empatia. Fora do código, gosto de corrida e musculação — corpo e mente evoluindo juntos.
-
-📍 Brasil | Aberto a trabalho remoto ou presencial
+Trabalho principalmente com **C# / .NET** e **Node.js**, com **React** e **Next.js** no front-end. Uso IA (Claude, GitHub Copilot, Codex e APIs de LLM) como parte do fluxo de desenvolvimento, sem abrir mão de testes, revisão e código limpo. Antes de escrever uma funcionalidade, gosto de entender o porquê dela.
 
 ---
 
 ## Stack
 
-<div align="center">
+| Área | Tecnologias |
+| :--- | :--- |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,spring&theme=dark" alt="C#, .NET, Node.js, Java, Spring Boot" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" alt="React, Next.js, JavaScript, HTML, CSS" /> |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="MySQL, Supabase" /> |
+| **DevOps e ferramentas** | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio&theme=dark" alt="Docker, Git, GitHub, VS Code, Visual Studio" /> |
+| **Em estudo** | <img src="https://skillicons.dev/icons?i=ts,postgres,kubernetes&theme=dark" alt="TypeScript, PostgreSQL, Kubernetes" /> |
 
-### Back-end
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Front-end
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Banco de dados
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### DevOps / Ferramentas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
+**Também no dia a dia:** ASP.NET MVC, SQL Server, APIs REST, JWT, testes unitários, E2E e de regressão, Scrum.
 
 ---
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Stack | Link |
-| --- | --- | --- | --- |
-| [Sistema de Gestão de Ativos e Monitoramento de TI](https://github.com/Gustavo13Cs/Sistema-de-Gestao-de-Ativos-e-Monitoramento-de-TI) | Sistema de monitoramento em tempo real, alertas automáticos e gestão de ativos de TI. | C#, .NET, SQL Server, Docker | [Repositório](https://github.com/Gustavo13Cs/Sistema-de-Gestao-de-Ativos-e-Monitoramento-de-TI) |
-| [Sistema de Estacionamento](https://github.com/Gustavo13Cs/SistemaComDapper) | API para gestão de estacionamento com regras de negócio e cálculo de tarifas. | C#, .NET, SQL Server | [Repositório](https://github.com/Gustavo13Cs/SistemaComDapper) |
-| [Sistema RH Java](https://github.com/Gustavo13Cs/SistemaRHJava) | Sistema de gestão de recursos humanos com organização de colaboradores e processos internos. | Java, Spring Boot, MySQL | [Repositório](https://github.com/Gustavo13Cs/SistemaRHJava) |
-| [Cardápio Virtual](https://github.com/Gustavo13Cs/Card-pio-Virtual) | Cardápio digital simples e funcional com foco em usabilidade e rapidez. | HTML, CSS, JavaScript | [Repositório](https://github.com/Gustavo13Cs/Card-pio-Virtual) |
-
-> Ajuste os links de projetos conforme quiser destacar repositórios específicos do seu portfólio.
-
----
-
-## Estatísticas
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo13Cs&theme=dark&hide_border=true)
-
-</div>
+| Projeto | O que faz | Stack |
+| :--- | :--- | :--- |
+| **[Gestão de Ativos e Monitoramento de TI](https://github.com/Gustavo13Cs/Sistema-de-Gest-o-de-Ativos-e-Monitoramento-de-TI)** <br/> *Em produção na Rede Fácil* | Plataforma corporativa para controle de patrimônio (ITAM) e segurança da informação: monitoramento de hardware em tempo real, alertas automáticos, controle remoto das máquinas, Cofre Digital compatível com a LGPD e automação de infraestrutura. | Node.js, React, WebSockets, Docker, MySQL, AES-256 |
+| **[Sistema de Estacionamento](https://github.com/Gustavo13Cs/SistemaComDapper)** | API para gerenciar entrada, saída e cálculo de preços de um estacionamento, com foco em regras de negócio e lógica de back-end. | C#, .NET Core, SQL Server, Dapper |
+| **[Sistema de RH](https://github.com/Gustavo13Cs/SistemaRHJava)** | Sistema de gestão de Recursos Humanos para organizar colaboradores e processos internos. | Java, Spring Boot, MySQL |
+| **[Cardápio Virtual](https://github.com/Gustavo13Cs/Card-pio-Virtual)** | Cardápio digital rápido e leve, pensado para uso no celular. | HTML5, CSS3, JavaScript |
 
 ---
 
 ## Atualmente
 
-- Estudando e construindo soluções com foco em **arquitetura de software**, **boas práticas** e **sistemas escaláveis**.
-- Trabalhando com **Supabase**, **React/Next.js** e integrações de **IA em fluxos reais**.
-- Explorando melhorias em dashboards, alertas, automações e exportação de dados para negócios.
+- Evoluindo um **SaaS de gestão de estacionamento** com Next.js, TypeScript e Supabase: dashboard analítico, alertas de ocupação e notificações por e-mail.
+- Estudando **microsserviços**, Docker em profundidade, CI/CD, SOLID e Clean Architecture.
 
 ---
 
-## Contato
+## GitHub em números
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cunha-s/)
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-FF6B6B?style=for-the-badge&logoColor=white)]([COLOQUE_O_LINK_DO_PORTFOLIO])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocunha0401@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=default&hide_border=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
+  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&langs_count=6&theme=default&hide_border=true" />
+</picture>
 
 </div>
 
 ---
 
+## Fora do teclado
+
+Corro há quase dois anos e faço musculação: a corrida me dá clareza, a academia me ensina resiliência e foco. A trilha sonora costuma ser Charlie Brown Jr.
+
+---
+
+## Vamos conversar
+
+Aberto a oportunidades como desenvolvedor back-end ou full stack, remoto ou presencial.
+
 <div align="center">
 
-"Código limpo é a base para soluções que realmente sobrevivem ao tempo."
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gustavo-cunha-s/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-24292F?style=for-the-badge)](https://gustavocunha-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Enviar%20mensagem-D14836?style=for-the-badge)](mailto:gustavocunha0401@gmail.com)
+
+<sub>Feito com código limpo e café.</sub>
 
 </div>
