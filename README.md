@@ -1,118 +1,104 @@
-# Olá, eu sou o Gustavo Cunha! 👋
+# Gustavo Cunha Santos
 
-### Desenvolvedor apaixonado por transformar problemas em progresso.
+**Desenvolvedor Back-End / Full Stack | C# / .NET | Java (Spring Boot) | Node.js | React | Next.js**
 
-Sou um desenvolvedor focado em resolver problemas através da programação. Vejo a tecnologia como uma ponte entre ideias e resultados, e cada linha de código como uma oportunidade de transformar um desafio em uma solução prática, bem estruturada e que realmente faça a diferença.
-
----
-
-### 🚀 Minha Filosofia de Desenvolvimento
-
-* **Código Limpo:** Acredito que código bem documentado e limpo é a base de um projeto sustentável e escalável.
-* **Comunicação Clara:** Trabalho em equipe eficiente se baseia em comunicação objetiva, honesta e constante.
-* **Visão de Produto:** Mais do que apenas "codar", busco entender o "porquê" por trás da funcionalidade, com foco em empatia pelo usuário e organização.
-* **Aprendizado Contínuo:** Estou sempre buscando evoluir, aprender novas tecnologias e trocar conhecimento com a comunidade.
+Construo soluções práticas, bem estruturadas e fáceis de manter. Foco em código limpo, documentação clara e entregas com impacto real.
 
 ---
 
-### 💻 Stack de Tecnologias
+## Sobre mim
 
-Minha stack está sempre evoluindo. Estas são as ferramentas que eu uso para construir soluções:
+Desenvolvedor com foco em back-end e boa atuação em full stack, com experiência em projetos de gestão de TI, e-commerce e automação. Cursando **Análise e Desenvolvimento de Sistemas** na Anhanguera (2023–2026) e técnico em desenvolvimento de sistemas pelo SENAI (2021–2022).
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Bancos de Dados & BaaS** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **DevOps & Ferramentas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+Atualmente trabalho como **Analista de Suporte de TI** na Rede Fácil, onde desenvolvi o Sistema de Gestão de Ativos e Monitoramento de TI, com monitoramento em tempo real de CPU, memória, disco e temperatura, alertas automáticos, controle remoto e Cofre Digital criptografado em conformidade com a LGPD.
+
+Também atuei como estagiário back-end em e-commerce com .NET Core, ASP.NET MVC, SQL Server e integração de pagamento, além de liderar tecnicamente um projeto de web scraping no SENAI. Possuo certificação Scrum Master e utilizo IA no fluxo de desenvolvimento para acelerar produtividade sem abrir mão da qualidade.
+
+Valorizo código limpo, documentação, trabalho em equipe, aprendizado contínuo e liderança técnica com empatia. Fora do código, gosto de corrida e musculação — corpo e mente evoluindo juntos.
+
+📍 Brasil | Aberto a trabalho remoto ou presencial
 
 ---
 
-### 🌟 Projetos em Destaque
-
-Aqui estão alguns projetos em que venho trabalhando. 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ Governança de TI & Monitoramento (RMM)</h3>
-      <br />
-      <p>Ecossistema corporativo desenvolvido para a Rede Fácil, focado na gestão completa do ciclo de vida de ativos (ITAM) e segurança da informação. Inclui monitoramento de hardware em tempo real, Cofre Digital compatível com a LGPD e automação de infraestrutura.</p>
-      <p align="center">
-        <b>Tecnologias:</b> Node.js, React, WebSockets, Docker, AES-256 ,Mysql
-        <br/><br/>
-        <a href="https://github.com/Gustavo13Cs/Sistema-de-Gest-o-de-Ativos-e-Monitoramento-de-TI" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 Sistema de Estacionamento</h3>
-      <br />
-      <p>API para gerenciamento de um sistema de estacionamento, controlando entrada, saída e cálculo de preços. Um projeto focado em regras de negócio e lógica de backend.</p>
-      <br/>
-      <p align="center">
-        <b>Tecnologias:</b> C#, .NET Core, SQL Server
-        <br/><br/>
-        <a href="https://github.com/Gustavo13Cs/SistemaComDapper" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ Cardápio Virtual</h3>
-      <br />
-      <p>Um cardápio digital simples e rápido, focado em performance e usabilidade mobile. Projeto ideal para praticar fundamentos de front-end e deploy rápido.</p>
-      <br/>
-      <p align="center">
-        <b>Tecnologias:</b> HTML5, CSS3, JavaScript
-        <br/><br/>
-        <a href="https://github.com/Gustavo13Cs/Card-pio-Virtual" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-      <td width="50%" valign="top">
-      <h3 align="center">🏢 Sistema de RH em Java</h3>
-      <br />
-      <p>Sistema completo de gestão de Recursos Humanos, focado em organização de colaboradores e processos internos.</p>
-      <br/>
-      <p align="center">
-        <b>Tecnologias:</b> Java, Spring Boot, MySQL
-        <br/><br/>
-        <a href="https://github.com/Gustavo13Cs/SistemaRHJava" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositório-Cinza?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-### 📈 Minhas Métricas e Performance
+## Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo13Cs&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=1800" />
-  <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo13Cs&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+
+### Back-end
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Banco de dados
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### DevOps / Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
 </div>
-
-
-### 🏃 Fora do Teclado
-
-Acredito que corpo e mente precisam evoluir juntos. Quando não estou programando, mantenho uma rotina ativa:
-
-* **🏃‍♂️ Corrida:** Pratico há quase dois anos, o que me dá clareza mental e disciplina.
-* **🏋️‍♂️ Musculação:** Foco e resiliência são construídos dentro e fora do código.
-* **🎧 Música & Séries:** Sempre acompanhado de um bom som (Charlie Brown Jr. na veia!) ou uma boa história.
 
 ---
 
-### 📫 Vamos nos conectar!
+## Projetos em destaque
 
-Estou sempre aberto a novas oportunidades, projetos desafiadores e conexões.
+| Projeto | Descrição | Stack | Link |
+| --- | --- | --- | --- |
+| [Sistema de Gestão de Ativos e Monitoramento de TI](https://github.com/Gustavo13Cs/Sistema-de-Gestao-de-Ativos-e-Monitoramento-de-TI) | Sistema de monitoramento em tempo real, alertas automáticos e gestão de ativos de TI. | C#, .NET, SQL Server, Docker | [Repositório](https://github.com/Gustavo13Cs/Sistema-de-Gestao-de-Ativos-e-Monitoramento-de-TI) |
+| [Sistema de Estacionamento](https://github.com/Gustavo13Cs/SistemaComDapper) | API para gestão de estacionamento com regras de negócio e cálculo de tarifas. | C#, .NET, SQL Server | [Repositório](https://github.com/Gustavo13Cs/SistemaComDapper) |
+| [Sistema RH Java](https://github.com/Gustavo13Cs/SistemaRHJava) | Sistema de gestão de recursos humanos com organização de colaboradores e processos internos. | Java, Spring Boot, MySQL | [Repositório](https://github.com/Gustavo13Cs/SistemaRHJava) |
+| [Cardápio Virtual](https://github.com/Gustavo13Cs/Card-pio-Virtual) | Cardápio digital simples e funcional com foco em usabilidade e rapidez. | HTML, CSS, JavaScript | [Repositório](https://github.com/Gustavo13Cs/Card-pio-Virtual) |
 
-* **LinkedIn:** [linkedin.com/in/gustavo-cunha-s/](https://www.linkedin.com/in/gustavo-cunha-s/)
-* **Email:** `gustavocunha0401@gmail.com`
+> Ajuste os links de projetos conforme quiser destacar repositórios específicos do seu portfólio.
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo13Cs&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo13Cs&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## Atualmente
+
+- Estudando e construindo soluções com foco em **arquitetura de software**, **boas práticas** e **sistemas escaláveis**.
+- Trabalhando com **Supabase**, **React/Next.js** e integrações de **IA em fluxos reais**.
+- Explorando melhorias em dashboards, alertas, automações e exportação de dados para negócios.
+
+---
+
+## Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cunha-s/)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-FF6B6B?style=for-the-badge&logoColor=white)]([COLOQUE_O_LINK_DO_PORTFOLIO])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocunha0401@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+"Código limpo é a base para soluções que realmente sobrevivem ao tempo."
+
+</div>
