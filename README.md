@@ -20,7 +20,7 @@
 
 Desenvolvedor back-end e full stack, graduado em Análise e Desenvolvimento de Sistemas e certificado Scrum Master. Atuo na infraestrutura de TI da **Rede Fácil**, onde construí do zero um sistema de gestão de ativos e monitoramento em tempo real, com Cofre Digital criptografado e alinhado à LGPD.
 
-Trabalho principalmente com **C# / .NET** e **Node.js**, com **React** e **Next.js** no front-end. Uso IA (Claude, GitHub Copilot, Codex e APIs de LLM) como parte do fluxo de desenvolvimento, sem abrir mão de testes, revisão e código limpo. Antes de escrever uma funcionalidade, gosto de entender o porquê dela.
+Trabalho principalmente com **C# / .NET** e **Node.js** (NestJS), com **React**, **Next.js** e **TypeScript** no front-end. Uso IA (Claude, GitHub Copilot, Codex e APIs de LLM) como parte do fluxo de desenvolvimento, sem abrir mão de testes, revisão e código limpo. Antes de escrever uma funcionalidade, gosto de entender o porquê dela.
 
 ---
 
@@ -28,13 +28,13 @@ Trabalho principalmente com **C# / .NET** e **Node.js**, com **React** e **Next.
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,spring&theme=dark" alt="C#, .NET, Node.js, Java, Spring Boot" /> |
-| **Front-end** | <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" alt="React, Next.js, JavaScript, HTML, CSS" /> |
-| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="MySQL, Supabase" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,java,spring&theme=dark" alt="C#, .NET, Node.js, NestJS, Java, Spring Boot" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS" /> |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma&theme=dark" alt="PostgreSQL, MySQL, Supabase, Prisma" /> |
+| **Testes e CI** | <img src="https://skillicons.dev/icons?i=jest,cypress,githubactions&theme=dark" alt="Jest, Cypress, GitHub Actions" /> |
 | **DevOps e ferramentas** | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio&theme=dark" alt="Docker, Git, GitHub, VS Code, Visual Studio" /> |
-| **Em estudo** | <img src="https://skillicons.dev/icons?i=ts,postgres,kubernetes&theme=dark" alt="TypeScript, PostgreSQL, Kubernetes" /> |
 
-**Também no dia a dia:** ASP.NET MVC, SQL Server, APIs REST, JWT, testes unitários, E2E e de regressão, Scrum.
+**Também no dia a dia:** ASP.NET MVC, SQL Server, APIs REST, autenticação JWT, testes unitários, E2E e de regressão, Scrum.
 
 ---
 
@@ -43,16 +43,17 @@ Trabalho principalmente com **C# / .NET** e **Node.js**, com **React** e **Next.
 | Projeto | O que faz | Stack |
 | :--- | :--- | :--- |
 | **[Gestão de Ativos e Monitoramento de TI](https://github.com/Gustavo13Cs/Sistema-de-Gest-o-de-Ativos-e-Monitoramento-de-TI)** <br/> *Em produção na Rede Fácil* | Plataforma corporativa para controle de patrimônio (ITAM) e segurança da informação: monitoramento de hardware em tempo real, alertas automáticos, controle remoto das máquinas, Cofre Digital compatível com a LGPD e automação de infraestrutura. | Node.js, React, WebSockets, Docker, MySQL, AES-256 |
+| **[Ecossistema Resiliência (SafeMove)](https://github.com/Gustavo13Cs/ecossistema-resiliencia)** <br/> *MVP em desenvolvimento · [demo online](https://ecossistema-resiliencia.vercel.app/)* | Plataforma para nutricionistas, personal trainers e fisioterapeutas administrarem clientes, prontuários e prescrições (dietas, treinos, reabilitação, avaliações físicas, exames e suplementação) sem depender de conta do paciente. Cada profissional tem sua base privada, com isolamento por conta, alertas automáticos (inatividade, platô e risco de overtraining) e cálculos metabólicos. Autenticação com JWT em cookies HttpOnly, controle de acesso por perfil, rate limiting e migrations versionadas. | Next.js, React, TypeScript, NestJS, Prisma, PostgreSQL, Tailwind CSS, Docker, GitHub Actions, Jest, Cypress |
 | **[Sistema de Estacionamento](https://github.com/Gustavo13Cs/SistemaComDapper)** | API para gerenciar entrada, saída e cálculo de preços de um estacionamento, com foco em regras de negócio e lógica de back-end. | C#, .NET Core, SQL Server, Dapper |
 | **[Sistema de RH](https://github.com/Gustavo13Cs/SistemaRHJava)** | Sistema de gestão de Recursos Humanos para organizar colaboradores e processos internos. | Java, Spring Boot, MySQL |
-| **[Cardápio Virtual](https://github.com/Gustavo13Cs/Card-pio-Virtual)** | Cardápio digital rápido e leve, pensado para uso no celular. | HTML5, CSS3, JavaScript |
 
 ---
 
 ## Atualmente
 
-- Evoluindo um **SaaS de gestão de estacionamento** com Next.js, TypeScript e Supabase: dashboard analítico, alertas de ocupação e notificações por e-mail.
-- Estudando **microsserviços**, Docker em profundidade, CI/CD, SOLID e Clean Architecture.
+- Evoluindo o **Ecossistema Resiliência**: a base profissional (Fase 1) está pronta; as próximas etapas são planos versionados, modelos reutilizáveis e geração de PDF.
+- Desenvolvendo um **SaaS de gestão de estacionamento** com Next.js, TypeScript e Supabase: dashboard analítico, alertas de ocupação e notificações por e-mail.
+- Estudando **microsserviços**, Kubernetes, Docker em profundidade, SOLID e Clean Architecture.
 
 ---
 
